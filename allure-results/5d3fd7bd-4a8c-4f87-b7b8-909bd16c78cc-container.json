@@ -1,0 +1,1 @@
+{"uuid":"5d3fd7bd-4a8c-4f87-b7b8-909bd16c78cc","name":"TestAnything.getTestData","description":"","start":1534859348919,"stop":1534859348919,"children":["fdb7cd13-4fcc-4557-999e-2a14a76a6e2d"],"befores":[{"name":"getTestData","status":"passed","stage":"finished","description":"","start":1534859348919,"stop":1534859348919}]}

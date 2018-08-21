@@ -1,0 +1,1 @@
+{"uuid":"cd84ebfa-5a40-4f76-bd77-cca4c47f6700","name":"TinkoffStepDefs","start":1534510651916,"stop":1534510654099,"children":["3d658a93-212c-42b7-81e3-a698ed6a5968"],"befores":[{"name":"getTestData","status":"passed","stage":"finished","description":"","start":1534510651940,"stop":1534510651957}]}
